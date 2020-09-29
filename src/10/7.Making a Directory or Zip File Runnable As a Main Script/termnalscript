@@ -1,0 +1,3 @@
+ls
+zip -r myapp.zip *.py
+python3 myapp.zip
